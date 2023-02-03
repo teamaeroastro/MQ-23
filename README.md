@@ -1,4 +1,4 @@
 # MQ-23
-AN eVTOL project of the Team AEROASTRO.
+An eVTOL project of the Team AEROASTRO.
 
 
